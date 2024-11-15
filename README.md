@@ -12,4 +12,5 @@ My first repository
 ---
 ## For more Information
 [Kantai Collection: Kan Colle](https://www.imdb.com/title/tt3639872/)
+
 [Kantai Collection (TV series)](https://en.wikipedia.org/wiki/Kantai_Collection_(TV_series)#Characters)
